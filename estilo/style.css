@@ -41,7 +41,8 @@ article {
     height: 400px;
     background-image: url('../images/image-product-desktop.jpg');
     background-size: cover;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.103);
 }
 
 section {
